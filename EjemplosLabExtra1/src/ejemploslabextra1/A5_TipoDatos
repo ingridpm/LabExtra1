@@ -1,0 +1,28 @@
+Un tipo de dato es un atributo que indica al programa
+(y/o al programador/programadora) sobre la clase de 
+datos que se va a manejar. 
+Esto incluye imponer restricciones en los datos, como 
+qué valores pueden tomar y qué operaciones se pueden 
+realizar.
+
+Hay dos categorías de tipos de datos en Java: 
+    -tipos primitivos 
+    -objetos / tipos de referencia.
+
+Los tipos primitivos son los tipos de datos básicos 
+que almacenan datos simples y forman la base de la 
+manipulación de datos. Por ejemplo, Java tiene tipos 
+primitivos para valores enteros (int, long, byte, 
+short), valores de coma flotante (float y double), 
+valores de caracteres (char) y valores 
+lógicos (boolean).
+
+Por otro lado, los tipos de referencia son objetos 
+que contienen referencias a valores y / u otros 
+objetos, o al valor especial nulo para denotar la 
+ausencia de valor.
+
+La clase String es un buen ejemplo de un tipo de 
+referencia. Una instancia de la clase, llamada 
+objeto, representa una secuencia de caracteres, 
+como "Hola Mundo".
